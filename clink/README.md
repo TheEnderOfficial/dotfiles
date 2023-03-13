@@ -1,0 +1,2 @@
+- Install CLink
+- Drop oh-my-posh.lua to CLink install dir
