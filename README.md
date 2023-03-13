@@ -2,6 +2,8 @@
 
 WARNING: This is not only dotfiles it is many configurations and lists of software/technologies
 
+All configs and guides in folders
+
 ## Software
 ### Runtimes
 - Java - [Azul](https://azul.com) (JDK FX 8/11/19)
