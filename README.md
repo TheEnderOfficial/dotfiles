@@ -26,7 +26,7 @@ All configs and guides in folders
 - [AstroVim](https://astronvim.com/) (almost never)
 
 ### ALLTHEANOTHERCODINGSTUFFOMEGALUL
-- [WezTerm](https://wezfurlong.org/wezterm) (console emulator) [wezterm.lua](https://github.com/TheEnderOfficial/dotfiles/blob/main/wezterm/wezterm.lua)
+- [WezTerm](https://wezfurlong.org/wezterm) (console emulator) [wezterm.lua](https://github.com/TheEnderOfficial/dotfiles/blob/main/wezterm/wezterm.lua) (on PC switched to Windows Terminal)
 
 ## Computers
 ### My PC
@@ -35,7 +35,7 @@ All configs and guides in folders
 - RAM: 32GB
 - SSD: 256GB
 - HDD: 2TB
-- OS: Windows 10 (version 21H2), Manjaro Linux (Gnome)
+- OS: Windows 11 (version 22H2)
 
 ### My Laptop (Acer Nitro 5 AN515-44-R01R)
 - CPU: AMD Ryzen 7 4800H
